@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Add this to the end of your existing .gitignore file
+
+# Sensitive configuration - NEVER COMMIT
+src/main/resources/application.properties
